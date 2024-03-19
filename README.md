@@ -44,4 +44,8 @@ Customer Personality Analysis is a detailed examination of a company’s ideal c
 - **NumStorePurchases**: Number of purchases made directly in stores
 - **NumWebVisitsMonth**: Number of visits to the company’s website in the last month
 
-    
+    ## Data Preprocessing Notes
+
+- **Missing Values**: There are missing values in the `Income` feature.
+- **DateTime Parsing**: `Dt_Customer` feature indicating the date a customer joined the database is not parsed as DateTime.
+- **Categorical Encoding**: Some features are categorical (dtype: object) and will need to be encoded into numeric forms later.
