@@ -11,7 +11,7 @@ Customer Personality Analysis is a detailed examination of a company’s ideal c
 - **Year_Birth**: Customer's birth year  
 - **Education**: Customer's education level 
 - **Marital_Status**: Customer's marital status
-- **Income**: Customer's yearly household income 
+- **Income**: Customer's yearly household income  
 - **Kidhome**: Number of children in customer's household
 - **Teenhome**: Number of teenagers in customer's household
 - **Dt_Customer**: Date of customer's enrollment with the company
