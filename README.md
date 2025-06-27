@@ -1,4 +1,4 @@
-# Customer_Segmentation     
+ # Customer_Segmentation     
 # Customer Personality Analysis Dataset
 
 Customer Personality Analysis is a detailed examination of a company’s ideal customers. This analysis assists businesses in gaining a better understanding of their customers, enabling them to tailor products and services to meet the specific needs, behaviors, and concerns of different customer segments.
